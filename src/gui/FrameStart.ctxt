@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FrameStart
+comment0.text=\n\ The\ starting\ frame.\n\n\ @author\ perrir@usi.ch,\ caglif@usi.ch\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=FrameStart()
+comment1.text=\n\ Constructor\ for\ the\ starting\ JFrame.\n
+comment2.params=button
+comment2.target=void\ setButton(javax.swing.JButton)
+comment2.text=\n\ This\ method\ set\ the\ features\ for\ the\ button.\n\ @param\ button\ is\ the\ button\ that\ will\ get\ the\ features.\n
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

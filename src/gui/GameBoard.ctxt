@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment0.text=\n\ The\ grid\ where\ you\ play\ the\ actual\ game.\n\n\ @author\ perrir@usi.ch,\ caglif@usi.ch\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameBoard()
+comment1.text=\n\ Constructor\ for\ the\ GameBoard\ JFrame.\n
+numComments=2

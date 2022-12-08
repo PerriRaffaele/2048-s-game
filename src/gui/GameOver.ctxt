@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\n\ Write\ a\ description\ of\ class\ Winner\ here.\n\n\ @author\ perrir@usi.ch,\ caglif@usi.ch\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameOver()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Winner.\n
+comment2.params=label
+comment2.target=void\ setLabel(javax.swing.JLabel)
+comment2.text=\n\ This\ method\ set\ the\ features\ for\ the\ labels.\ \n\ @param\ label\ is\ the\ label\ used\ on\ the\ frame.\n
+comment3.params=button
+comment3.target=void\ setButton(javax.swing.JButton)
+comment3.text=\n\ This\ method\ set\ the\ features\ for\ the\ button.\ \n\ @param\ button\ is\ the\ button\ used\ on\ the\ frame.\n
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ This\ method\ it's\ to\ make\ the\ button\ perform\ an\ action.\n
+comment5.params=
+comment5.target=java.lang.String\ getImageName()
+comment5.text=\n\ This\ method\ takes\ the\ Name\ of\ the\ image\ for\ the\ subclasses.\n\ @return\ the\ image.\n
+numComments=6

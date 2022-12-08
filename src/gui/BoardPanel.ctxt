@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BoardPanel
+comment0.text=\n\ Creates\ the\ board\ for\ playing.\n\n\ @author\ perrir@usi.ch,\ caglif@usi.ch\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BoardPanel()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BoardPanel.\n
+comment2.params=event
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=event
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment4.params=gg
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ startGame()
+comment5.text=\n\ This\ method\ starts\ the\ game.\ \n
+comment6.params=g2D
+comment6.target=void\ drawGrid(java.awt.Graphics2D)
+comment6.text=\n\ This\ method\ draw\ the\ grid\ in\ which\ play.\n\ @param\ g2D\ to\ draw\ the\ graphics.\n
+comment7.params=g2D\ row\ col
+comment7.target=void\ drawTile(java.awt.Graphics2D,\ int,\ int)
+comment7.text=\n\ This\ method\ draw\ the\ tile\ used\ for\ playing.\n\ @param\ g2D\ to\ draw\ the\ tiles.\n\ @param\ row\ for\ rows.\n\ @param\ col\ for\ columns.\n
+numComments=8

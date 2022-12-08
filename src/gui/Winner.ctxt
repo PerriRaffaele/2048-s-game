@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Winner
+comment0.text=\n\ The\ interface\ if\ you\ win\ the\ game.\n\n\ @author\ perrir@usi.ch,\ caglif@usi.ch\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Winner()
+comment1.text=\n\ Constructor\ for\ the\ winner\ JFrame.\n
+comment2.params=
+comment2.target=java.lang.String\ getImageName()
+numComments=3
